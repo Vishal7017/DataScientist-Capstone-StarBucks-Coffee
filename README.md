@@ -6,7 +6,7 @@ Udacity DataScientist Capstone on StarBucks Coffee
 
 ---
 ### Medium article
-The whole project is explained and examined in this [Medium Article](https://keanu-forthmann.medium.com/predicting-starbucks-customer-spendings-cca39b7533c2).
+The whole project is explained and examined in this [Medium Article](https://vishalden493.medium.com/starbucks-coffee-predictions-7fecb3bd635b).
 
 ### The repository includes the following folder and files
 - data - including three .jsons with all data used  
